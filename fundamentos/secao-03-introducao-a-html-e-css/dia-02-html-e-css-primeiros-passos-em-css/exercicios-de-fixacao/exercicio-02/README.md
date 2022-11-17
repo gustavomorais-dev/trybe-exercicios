@@ -2,7 +2,7 @@
 
 [X] Modifique o font-family do h1 para sans-serif;
 
-[] Deixe o parágrafo com o font-weight 600;
+[X] Deixe o parágrafo com o font-weight 600;
 
 [] Modifique o font-size do body para 16px;
 
