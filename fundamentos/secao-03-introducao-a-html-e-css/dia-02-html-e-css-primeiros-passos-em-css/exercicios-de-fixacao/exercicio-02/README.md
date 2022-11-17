@@ -6,7 +6,7 @@
 
 [X] Modifique o font-size do body para 16px;
 
-[] Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body;
+[X] Coloque o tamanho do parágrafo com o tamanho de 3 vezes o padrão do body;
 
 [] Explore as propriedades font-style, line-height, text-align e text-decoration;
 
