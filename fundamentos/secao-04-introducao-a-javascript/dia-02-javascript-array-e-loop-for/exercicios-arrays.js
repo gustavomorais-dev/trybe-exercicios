@@ -81,3 +81,14 @@ for (let index = 0; index < numbers.length; index += 1) {
 }
 
 console.log(lowerNumber);
+
+/* 8 - Utilizando for, crie um array que vá de 1 até 25 e imprima o resultado; */
+console.log("_________________ Exercício 8 _________________");
+
+let newArray = [];
+
+for (let index = 1; index < 26; index += 1) {
+    newArray.push(index);
+}
+
+console.log(newArray);
