@@ -92,3 +92,10 @@ for (let index = 1; index < 26; index += 1) {
 }
 
 console.log(newArray);
+
+/* 9 - Utilizando o array que acabou de criar, imprima o resultado da divisão de cada um dos elementos por 2. */
+console.log("_________________ Exercício 9 _________________");
+
+for (let index = 0; index < newArray.length; index += 1) {
+    console.log(newArray[index]/2);
+}
