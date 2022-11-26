@@ -12,23 +12,17 @@ for (let number of numbers) {
 /* 2 - Some todos os valores contidos no array e imprima o resultado; */
 console.log("_________________ Exercício 2 _________________");
 
-let soma1 = 0;
+let soma = 0;
 
 for (let number of numbers) {
-    soma1 += number;
+    soma += number;
 }
 
-console.log(soma1);
+console.log(soma);
 
 /* 3 - Calcule e imprima a média aritmética dos valores contidos no array;
 
 A média aritmética é o resultado da soma de todos os elementos dividido pelo número total de elementos. */
 console.log("_________________ Exercício 3 _________________");
 
-let soma2 = 0;
-
-for (let number of numbers) {
-    soma2 += number;
-}
-
-console.log(soma2/numbers.length);
+console.log(soma/numbers.length);
