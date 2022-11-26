@@ -8,3 +8,14 @@ console.log("_________________ Exercício 1 _________________")
 for (let number of numbers) {
     console.log(number);
 }
+
+/* Some todos os valores contidos no array e imprima o resultado; */
+console.log("_________________ Exercício 2 _________________")
+
+let soma1 = 0;
+
+for (let number of numbers) {
+    soma1 += number;
+}
+
+console.log(soma1)
