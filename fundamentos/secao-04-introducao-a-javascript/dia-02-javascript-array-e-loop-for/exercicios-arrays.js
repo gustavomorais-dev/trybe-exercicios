@@ -51,3 +51,19 @@ for (let index = 0; index < numbers.length; index += 1) {
 
 console.log(higherNumber)
 
+/* 6 - Descubra quantos valores ímpares existem no array e imprima o resultado. Caso não exista nenhum, imprima a mensagem: “nenhum valor ímpar encontrado”;*/
+console.log("_________________ Exercício 6 _________________");
+
+let oddNumbers = 0;
+
+for (let index = 0; index < numbers.length; index += 1) {
+    if (numbers[index] % 2 !== 0) {
+        oddNumbers += 1;
+    }
+}
+
+if (oddNumbers > 0) {
+    console.log(oddNumbers + " números ímpares no array");
+} else {
+    console.log("O array não possui números ímpares");
+}
