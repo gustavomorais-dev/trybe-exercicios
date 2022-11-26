@@ -1,41 +1,41 @@
 # Nessa seção, aprendi a:
 
-- [ ] Explicar de forma simples como a internet funciona;
+- [X] Explicar de forma simples como a internet funciona;
 
-- [ ] Entender o modelo Cliente & Servidor e identificar suas partes;
+- [X] Entender o modelo Cliente & Servidor e identificar suas partes;
 
-- [ ] Estruturar páginas web com HTML utilizando as tags html, head e body;
+- [X] Estruturar páginas web com HTML utilizando as tags html, head e body;
 
-- [ ] Utilizar o HTML para estruturar textos e títulos;
+- [X] Utilizar o HTML para estruturar textos e títulos;
 
-- [ ] Utilizar o HTML para criar listas, links e adicionar imagens.
+- [X] Utilizar o HTML para criar listas, links e adicionar imagens.
 
-- [ ] Criar regras de estilo para tags HTML utilizando o CSS;
+- [X] Criar regras de estilo para tags HTML utilizando o CSS;
 
-- [ ] Utilizar os seletores de `tag`, `id` e `class` para aplicar regras de CSS;
+- [X] Utilizar os seletores de `tag`, `id` e `class` para aplicar regras de CSS;
 
-- [ ] Alterar características da fonte e das cores de páginas web;
+- [X] Alterar características da fonte e das cores de páginas web;
 
-- [ ] Utilizar CSS inline e externo.
+- [X] Utilizar CSS inline e externo.
 
-- [ ] Compreender como funciona o Box Model do CSS e como os elementos da página se relacionam visualmente;
+- [X] Compreender como funciona o Box Model do CSS e como os elementos da página se relacionam visualmente;
 
-- [ ] Posicionar elementos na página de diferentes formas;
+- [X] Posicionar elementos na página de diferentes formas;
 
-- [ ] Combinar e agrupar seletores de CSS para criar regras bem definidas.
+- [X] Combinar e agrupar seletores de CSS para criar regras bem definidas.
 
-- [ ] Fazer uso de elementos HTML de acordo com o sentido e o propósito que eles carregam. Tais elementos incluem, mas não se limitam a: `header`, `nav`, `aside`, `article`, `section`, `footer` e `img`;
+- [X] Fazer uso de elementos HTML de acordo com o sentido e o propósito que eles carregam. Tais elementos incluem, mas não se limitam a: `header`, `nav`, `aside`, `article`, `section`, `footer` e `img`;
 
-- [ ] Criar páginas semanticamente válidas e acessíveis;
+- [X] Criar páginas semanticamente válidas e acessíveis;
 
-- [ ] Entender a diferença entre elementos de bloco e elementos inline.
+- [X] Entender a diferença entre elementos de bloco e elementos inline.
 
-- [ ] Entender como funciona a estrutura (HTML) de uma página;
+- [X] Entender como funciona a estrutura (HTML) de uma página;
 
-- [ ] Entender como o estilo (CSS) é aplicado à página;
+- [X] Entender como o estilo (CSS) é aplicado à página;
 
-- [ ] Construir páginas utilizando HTML e CSS;
+- [X] Construir páginas utilizando HTML e CSS;
 
-- [ ] Realizar manutenções em páginas já existentes;
+- [X] Realizar manutenções em páginas já existentes;
 
-- [ ] Aplicar Layout e Box Model na prática.
+- [X] Aplicar Layout e Box Model na prática.
