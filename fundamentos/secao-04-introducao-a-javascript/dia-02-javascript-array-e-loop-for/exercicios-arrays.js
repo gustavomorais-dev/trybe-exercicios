@@ -67,3 +67,17 @@ if (oddNumbers > 0) {
 } else {
     console.log("O array não possui números ímpares");
 }
+
+/* 7 - Utilizando for, descubra qual o menor valor contido no array e imprima-o; */
+console.log("_________________ Exercício 7 _________________");
+
+
+let lowerNumber = Number.POSITIVE_INFINITY;
+
+for (let index = 0; index < numbers.length; index += 1) {
+    if (numbers[index] < lowerNumber) {
+        lowerNumber = numbers[index];
+    }
+}
+
+console.log(lowerNumber);
