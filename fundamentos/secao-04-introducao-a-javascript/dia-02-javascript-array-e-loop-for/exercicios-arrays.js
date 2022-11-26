@@ -25,4 +25,15 @@ console.log(soma);
 A média aritmética é o resultado da soma de todos os elementos dividido pelo número total de elementos. */
 console.log("_________________ Exercício 3 _________________");
 
-console.log(soma/numbers.length);
+let media = soma/numbers.length
+
+console.log(media);
+
+/* 4 - Com base no código que acabou de gerar, faça com que, caso o valor final seja maior que 20, imprima a mensagem: “valor maior que 20”. Caso não seja, imprima a mensagem: “valor menor ou igual a 20”; */
+console.log("_________________ Exercício 4 _________________");
+
+if (media > 20) {
+    console.log("Valor maior que 20")
+} else {
+    console.log("Valor menor ou igual a 20")
+}
