@@ -8,7 +8,7 @@ n = 5
 
 */
 
-const n = 5; // Tamanho da base
+const n = 15; // Tamanho da base
 let line = ''; // Recebe os valores da linha para serem impressos
 let nLines = 0; // Número de linhas que serão necessárias para criar a pirâmide
 let nOperator = n; // Operador para contagem de linhas necessárias
@@ -26,21 +26,15 @@ let position = 1; // Esta variável auxilia a localizar em qual linha estamos tr
 for (let indexLine = 1; indexLine <= nLines; indexLine += 1) {
   // Aqui desenhamos os espaços vazios à esquerda
   for (let indexSlot = 1; indexSlot <= (2 * (nLines - position)) / 2; indexSlot += 1) {
-
     line += ' ';
-
   }
   // Aqui desenhamos o meio, ou seja, os asteriscos
   for (let indexSlot = 1; indexSlot <= (n - (2 * (nLines - position))); indexSlot += 1) {
-
     line += '*';
-
   }
   // Aqui desenhamos os espaços vazios à direita
   for (let indexSlot = 1; indexSlot <= (2 * (nLines - position)) / 2; indexSlot += 1) {
-
     line += ' ';
-
   }
   console.log(line);
   line = '';
