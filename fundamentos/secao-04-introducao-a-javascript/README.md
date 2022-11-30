@@ -10,9 +10,9 @@
 
 - [X] Utilizar o comando `for` e `while`;
 
-- [ ] Quebrar grandes problemas em pequenos;
+- [X] Quebrar grandes problemas em pequenos;
 
-- [ ] Utilizar a lógica de programação na resolução de problemas.
+- [X] Utilizar a lógica de programação na resolução de problemas.
 
 - [ ] Manipular objetos;
 
