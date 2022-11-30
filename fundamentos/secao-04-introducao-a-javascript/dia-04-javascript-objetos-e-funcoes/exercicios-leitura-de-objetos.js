@@ -40,3 +40,10 @@ leitor.livrosFavoritos.push(newObject)
 console.log(leitor); 
 
 // Fim
+console.log('______________________________________ Exercício 3 ______________________________________');
+/* Acesse as chaves nome e livrosFavoritos e faça um console.log no seguinte formato: “Julia tem <quantidade> livros favoritos”, onde “<quantidade>” é um número gerado automaticamente pelo seu código.
+*/
+
+console.log(leitor.nome, 'tem', leitor.livrosFavoritos.length, 'livros favoritos'); 
+
+// Fim
