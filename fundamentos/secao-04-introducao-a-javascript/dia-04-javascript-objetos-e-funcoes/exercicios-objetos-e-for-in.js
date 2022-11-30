@@ -30,3 +30,16 @@ info['recorrente'] = 'Sim';
 console.log(info);
 
 // Fim
+console.log('______________________________________ Exercício 3 ______________________________________');
+/* Faça um for/in que mostre todas as chaves do objeto. Valor esperado no console:
+personagem
+origem
+nota
+recorrente
+*/
+
+for (let key in info) {
+    console.log(key);
+}
+
+//Fim
