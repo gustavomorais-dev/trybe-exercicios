@@ -23,7 +23,7 @@ const showTagPContents = () => {
     }
 };
 
-// Chama as funções
+// Chama as funções 
 
 writeSecondTagP("Quero estar trabalhando como dev pleno e à caminho de me tornar dev sênior!");
 
