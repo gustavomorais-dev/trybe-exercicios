@@ -14,16 +14,16 @@
 
 - [X] Utilizar a lógica de programação na resolução de problemas.
 
-- [ ] Manipular objetos;
+- [X] Manipular objetos;
 
-- [ ] Utilizar o comando `for/in` e diferenciá-lo do comando `for/of`;
+- [X] Utilizar o comando `for/in` e diferenciá-lo do comando `for/of`;
 
-- [ ] Utilizar funções para organizar e estruturar o meu código.
+- [X] Utilizar funções para organizar e estruturar o meu código.
 
-- [ ] Utilizar corretamente `let` e `const`;
+- [X] Utilizar corretamente `let` e `const`;
 
-- [ ] Simplificar meu código com `arrow functions`;
+- [X] Simplificar meu código com `arrow functions`;
 
-- [ ] Simplificar a construção de strings com `template literals`;
+- [X] Simplificar a construção de strings com `template literals`;
 
-- [ ] Criar expressões condicionais simplificadas com `ternary operator`.
+- [X] Criar expressões condicionais simplificadas com `ternary operator`.
