@@ -116,6 +116,30 @@
             main.appendChild(h3);
         }
 
+        // Correções pedidas
+
+        // Adiciona classe ao h1
+        titleH1.className = 'title';
+
+        // Adiciona classe nas tags h3
+        const h3 = document.getElementsByTagName('h3');
+        for (let index = 0; index < h3.length; index += 1) {
+            h3[index].className = 'description';
+        }
+
+        // Remove a section 2
+        main.removeChild(document.getElementsByTagName('section')[1]);
+
+        // Centraliza a section 3
+        section3.style.marginRight = 'auto';
+
+        // Troca cor de fundo do elemento pai da section 1
+        section1.parentElement.style.backgroundColor = 'green';
+
+        // Remove os dois últimos elementos da ul
+        const lis = document.getElementsByTagName('li');
+        ul.removeChild(lis[8]);
+        ul.removeChild(lis[8]);
     </script>
 </body>
 
